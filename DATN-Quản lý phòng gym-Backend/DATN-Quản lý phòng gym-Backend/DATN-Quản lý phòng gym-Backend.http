@@ -1,0 +1,6 @@
+@DATN_Quản_lý_phòng_gym_Backend_HostAddress = http://localhost:5170
+
+GET {{DATN_Quản_lý_phòng_gym_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

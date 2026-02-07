@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+.vs/
+
+# Node / Vue
+node_modules/
+dist/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
