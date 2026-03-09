@@ -174,4 +174,4 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 ---
 
-**Đồ án tốt nghiệp PRO211** - Phát triển bởi [Tên của bạn]
+**Đồ án tốt nghiệp PRO211** - Phát triển bởi DN_45 Trang Landing Page Phòng Gym
